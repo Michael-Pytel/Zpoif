@@ -1,6 +1,6 @@
-# Advanced Java Programming Portfolio
+# Advanced Object Oriented and Functional Programming Course
 
-🚀 Welcome to my Advanced Java Programming Portfolio! This repository showcases my proficiency in advanced Java concepts, blending Object-Oriented Programming (OOP) and Functional Programming (FP) paradigms.
+🚀 These are most of my attempts to solve scored laboratories for my uni course! All of the projects are in folders with corresponding number. All of the tasks are in Polish but below is a short translation of the most important paradigms that I learned during this course. 
 
 ## Table of Contents
 
